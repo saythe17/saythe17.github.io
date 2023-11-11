@@ -28,7 +28,7 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 # -----------------------------------------------------------------------------
 
 # repo color theme
-repo_theme_light: vue       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: buefy     # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: vision-friendly-dark           # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
   enabled: true
@@ -103,8 +103,9 @@ discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note: 
+# >
+#   # You can even add a little note about which of these is the best way to reach you.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
