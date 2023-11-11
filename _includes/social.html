@@ -1,7 +1,9 @@
             {%- if site.email -%}
             <!-- <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fas fa-envelope"></i></a> -->
-            <a class="nav-link" href="mailto:{{ site.email | encode_email }}" style="font-family: 'Lato';">email</a>
-            <a style="font-family: 'Lato';"> / </a>
+            <li class="nav-item">
+                <a class="nav-link" href="mailto:{{ site.email | encode_email }}" style="font-family: 'Lato'; white-space: nowrap;">email</a>
+                <a style="font-family: 'Lato'; white-space: nowrap;">/</a>
+            </li>
             {% endif %}
             {%- if site.telegram_username -%}
             <a href="https://telegram.me/{{ site.telegram_username }}" title="telegram"><i class="fab fa-telegram"></i></a>
