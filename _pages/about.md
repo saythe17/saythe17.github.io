@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [Email](572142867olive@gmail.com) / [Google Scholar](https://scholar.google.com/citations?user=YGJTGn0AAAAJ&hl=en)
+subtitle: hi
 
 profile:
   align: right
