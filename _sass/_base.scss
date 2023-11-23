@@ -254,7 +254,6 @@ blockquote {
   }
 
   .navbar-brand {
-    font-family: 'Academicons';
     color: var(--global-text-color);
   }
 
@@ -277,21 +276,19 @@ blockquote {
   }
 
   .navbar-brand.social {
-    font-family: 'Academicons';
+    font-family: 'Academicons', 'Lato';
     padding-bottom: 0;
     padding-top: 0;
     font-size: 1.7rem;
 
     a {
       i::before {
-        font-family: 'Academicons';
         color: var(--global-text-color);
         transition-property: all 0.2s ease-in-out;
       }
 
       &:hover {
         i::before {
-          font-family: 'Academicons';
           color: var(--global-theme-color);
         }
       }
