@@ -510,10 +510,12 @@
  }
 
  .ai-researchgate:before {
+     font-family: 'Academicons';
      content: "\e95e";
  }
 
  .ai-researchgate-square:before {
+    font-family: 'Academicons';
      content: "\e99e";
  }
 
