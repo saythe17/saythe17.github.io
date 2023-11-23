@@ -1,4 +1,4 @@
-<table class="table table-cv table-sm table-borderless table-responsive table-cv-map">
+<table class="table table-cv table-sm table-borderless table-responsive table-cv-map" style="font-family: 'Lato';">
   {% assign skip_basics = "image,profiles,location" | split:"," %}
   {% for content in data[1] %}
     {% if (content[1] == "") or (skip_basics contains content[0]) %}
