@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a senior undergraduate student pursuing a Bachelor's degree in Computer Science and Technology at Beijing Institute of Technology (BIT), China.
+I am a senior undergraduate student pursuing a Bachelor's degree in Computer Science and Technology at Beijing Institute of Technology(BIT), China.
 
 I am currently engaged in research that revolves around the field of 3D computer vision. I feel fortunate to be working under the supervision of Professor ZHAO Hao at the DISCOVER Lab, Institute for AI Industry Research, Tsinghua University.
 
