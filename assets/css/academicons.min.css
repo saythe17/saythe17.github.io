@@ -510,12 +510,10 @@
  }
 
  .ai-researchgate:before {
-     font-family: 'Academicons';
      content: "\e95e";
  }
 
  .ai-researchgate-square:before {
-    font-family: 'Academicons';
      content: "\e99e";
  }
 
@@ -740,7 +738,6 @@
  }
 
  .ai {
-     font-family: 'Lato';
      font-weight: 400;
      -moz-osx-font-smoothing: grayscale;
      -webkit-font-smoothing: antialiased;
