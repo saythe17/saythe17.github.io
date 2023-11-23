@@ -23,18 +23,56 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
+      "title": "First Class Scholarship (Top 5%)",
+      "date": "Semesters 1, 2, 3, 5, 6 of undergraduate",
+      "awarder": "Beijing Institute of Technology"
+    },
+    {
+      "title": "China Century Scholarship (Top 5%)",
+      "date": "2021",
+      "awarder": "China Century Group & Beijing Institute of Technology"
+    },
+    {
+      "title": "Provincial (Beijing) Second Prize of China Undergraduate Mathematical Contest in Modeling",
+      "date": "2022",
+      "awarder": "CSIAM (China Society for Industrial and Applied Mathematics)"
+    },
+    {
+      "title": "Finalist Award in the Mathematical Contest in Modeling",
+      "date": "2023",
+      "awarder": "COMAP – The Consortium for Mathematics and its Applications"
+    },
   ],
   "certificates": [],
-  "publications": [  ],
+  "publications": [ 
+    { 
+      "publisher": "Wu, Zirui and Liu, Tianyu and Luo, Liyi and Zhong, Zhide and Chen, Jianteng and Xiao, Hongmin and Hou, Chao and Lou, Haozhe and Chen, Yuantao and Yang, Runyi and Huang, Yuxin and Ye, Xiaoyu and Yan, Zike and Shi, Yongliang and Liao, Yiyi and Zhao, Hao",
+      "name": "MARS: An Instance-aware, Modular and Realistic Simulator for Autonomous Driving",
+      "releaseDate": "2023",
+      "url": "https://open-air-sun.github.io/mars/"
+      },
+    {
+      "name": "Epidemic Impact Study Based on SIRU High-Order Model",
+      "publisher": "Z. Zheng and Y. Huang",
+      "releaseDate": "2023",
+      "url": "https://doi.ieeecomputersociety.org/10.1109/ICDSM59373.2023.00016"
+    },
+    {
+      "name": "Research on glass relics based on machine learning",
+      "publisher": "Zhao, Jiaming and Zheng, Zifan and Fang, Chen and Huang, Yuxin and Zhang, Bei",
+      "releaseDate": "2023",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10090756"
+    }
+
+  ],
   "skills": [
     {
-      "language": "IELTS - 7.5",
-      "programming": "Proficient in C/C++, Python, Java"
+      "name": "Programming",
+      "level": "Proficient",
+      "icon": "fa fa fa-hashtag",
+      "keywords": [
+        "C","C++","Python","Java"
+      ]
     }
   ],
   "languages": [
@@ -44,7 +82,7 @@
     },
     {
       "language": "English",
-      "fluency": "Fluent"
+      "fluency": "Fluent(IELTS - 7.5)"
     }
   ],
   "interests": [],
